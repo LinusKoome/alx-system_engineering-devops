@@ -1,1 +1,1 @@
-This project is about shell basics
+This project deals with shell
